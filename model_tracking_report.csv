@@ -1,0 +1,2 @@
+Run Name,Model,Source,Parameters,MAE,RMSE,R2,Output File
+Satisfaction_Regression_Model,Linear Regression,Telecom Customer Dataset,"test_size=0.20, random_state=42",0.27952076828374767,18.485759524202287,-86.78316607521592,satisfaction_predictions.csv
